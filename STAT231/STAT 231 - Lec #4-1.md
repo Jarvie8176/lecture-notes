@@ -6,8 +6,3 @@ STAT 231 - Lec # 4-1
 
 	* based on the **expected frequencies**
 
-* use imperical cdf
-
-* Q-Q Plot
-
-	* distinguish uniform, normal, exponential
