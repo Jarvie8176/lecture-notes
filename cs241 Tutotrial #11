@@ -1,0 +1,8 @@
+cs241 Tutorial #11
+
+parse error - code doen't follow rules defined by langauge
+
+worlflow
+
+scanner => tokens -> parser => parser tree -> semantic analysis => parse tree, symbol table -> codegen => bin
+
